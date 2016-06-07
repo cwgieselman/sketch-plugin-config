@@ -1,6 +1,6 @@
 # SVGO Compressor Plugin Config File
 
-SVGO Compressor is a Plugin that compresses SVG assets at the time of export. I just tinkered with the config file a bit to give us the output we need to work within or CMS
+SVGO Compressor is a Sketch Plugin that compresses SVG assets at the time of export. I tinkered with the config file a bit to give us the output we need to work within the JAMF EE CMS and am passing it along to you!
 
 SVGO Compressor *requires* Sketch 3.8.
 
@@ -12,7 +12,8 @@ SVGO Compressor *requires* Sketch 3.8.
 
 ### Then grab the new config file
 - Download [this repo](https://github.com/cwgieselman/sketch-plugin-config/archive/master.zip) & unzip it.
-- Add `svgo.json` to the Sketch's Plugins Directory `<user> / Library / Application Support / com.bohemiancoding.sketch3 / Plugins`
+- Add `svgo.json` to the Sketch's Plugins Directory:
+`<user> / Library / Application Support / com.bohemiancoding.sketch3 / Plugins`
 - Restart Sketch
 
 ## Usage
