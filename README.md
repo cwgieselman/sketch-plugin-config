@@ -12,7 +12,7 @@ SVGO Compressor *requires* Sketch 3.8.
 
 ### Then grab the new config file
 - Download [this repo](https://github.com/cwgieselman/sketch-plugin-config/archive/master.zip) & unzip it.
-- Add `svgo.json` to the Sketch's Plugins Directory (Found at `~/Library/Application Support/com.bohemiancoding.sketch3/Plugins`)
+- Add `svgo.json` to the Sketch's Plugins Directory (`~/Library/Application Support/com.bohemiancoding.sketch3/Plugins`)
 - Restart Sketch
 
 ## Usage
